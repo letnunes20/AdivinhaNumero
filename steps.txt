@@ -1,0 +1,9 @@
+git config --global user.name letnunes20
+git config --global user.email letcanunes@gmail.com
+
+Criar projeto
+npx create-expo-app@latest adivinha-numero
+
+cd .\adivinha-numero
+npm i
+npx expo start --localhost --android
